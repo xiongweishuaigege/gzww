@@ -1,0 +1,1 @@
+User-agent: *Allow: /Sitemap: https://xiongweishuaigege.github.io/gzww/sitemap.xml
